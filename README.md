@@ -1,7 +1,7 @@
 # cv-datasets
 
 |Name/Description|size|images|train|val|test|Download|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |[Human Parsing](https://github.com/lemondan/HumanParsing-Dataset)<br>detailed pixel-wise annotations for fashion images||||||[BaiduDisk(kjgk)]( http://pan.baidu.com/s/1qY8bToS)|
 |[LIP](https://vuhcs.github.io<br>||10K|||||
 |[Chictopia Plus](http://files.is.tue.mpg.de/classner/gp/)<br>![](http://files.is.tue.mpg.de/classner/gp/images/datasets/dataset.png) A Generative Model of People in Clothing|2.99G|14400|||||
