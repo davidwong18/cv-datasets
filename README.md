@@ -1,6 +1,6 @@
 # cv-datasets
 
-|Name|Description|size|images|train|val|test|Download|
+|Name/Description|size|images|train|val|test|Download|
 |---|---|---|---|---|---|---|---|
 |[Human Parsing](https://github.com/lemondan/HumanParsing-Dataset)<br>detailed pixel-wise annotations for fashion images||||||[BaiduDisk(kjgk)]( http://pan.baidu.com/s/1qY8bToS)|
 |[LIP](https://vuhcs.github.io<br>||10K|||||
