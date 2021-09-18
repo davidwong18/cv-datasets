@@ -13,8 +13,17 @@
 |http://robotics.dei.unipd.it/reid/index.php<br>|||||||  
 |[BackgroundMattingV2:VideoMatte240K][]<br>![](https://grail.cs.washington.edu/projects/background-matting-v2/static/media/videomatte.b61fe83d.jpg)<br>contains 484 pairs of high-resolution alpha matte and foreground video clips, constituting 240,709 unique frames. The alpha matte and foreground data were extracted from green screen stock footage purchased by the University of Washington.384 4K+100 HD|4.7G|484||||[GoogleDrive](https://drive.google.com/file/d/1z-KDuqk1g7-H94iGXDrpZGpexN9jizbQ/view?usp=sharing) [BaiduDisk](https://pan.baidu.com/s/1R_BeQ7D0zI-qmVufogpcVg)|
 |[BackgroundMattingV2:PhotoMatte85][]<br>![](https://grail.cs.washington.edu/projects/background-matting-v2/static/media/photomatte.dd258913.jpg)<br>85 protrait images|395M|||85||[GoogleDrive](https://drive.google.com/file/d/1KpHKYW986Dax9-ZIM7I-HyBoWVcLPuaQ/view?usp=sharing) [BaiduDisk](https://pan.baidu.com/s/1IHuTkTSRYHtqOcu6Op37Vg)|
-|[YouTubeVOS-2019][] uu4q<br> 720p, annotated: 6fps, raw images: 30fps, 94 object categories||4000+||||[GoogleDrive](https://drive.google.com/drive/folders/1BWzrCWyPEmBEKm0lOHe5KLuBuQxUSwqz?usp=sharing)|
+|[YouTubeVOS-2019][]<br>720p, annotated: 6fps, raw images: 30fps, 94 object categories||4000+||||[GoogleDrive](https://drive.google.com/drive/folders/1BWzrCWyPEmBEKm0lOHe5KLuBuQxUSwqz?usp=sharing) [BaiduDisk(uu4q)](https://pan.baidu.com/s/1x4bQ0AuyshS7-ZmE9I0FnQ)|
+|[YouTubeVIS-2021][]<br>|12.3G|3859|2985|421|453|[GoogleDrive](https://drive.google.com/drive/folders/12DxR2HWTVjULNwKVMdYAvhOmZ9gBxsX2?usp=sharing) [BaiduDisk(fwc5)](https://pan.baidu.com/s/1CnLoYtNU-KnDVVrJ2ZqJFQ)|
 |<br>|||||||
+
+
+3,859 high-resolution YouTube videos, 2,985 training videos, 421 validation videos and 453 test videos.
+An improved 40-category label set by merging eagle and owl into bird, ape into monkey, deleting hands, and adding flying disc, squirrel and whale
+8,171 unique video instances
+232k high-quality manual annotations
+
+
 
 [Human Parsing]: https://github.com/lemondan/HumanParsing-Dataset  
 [Chictopia Plus]: http://files.is.tue.mpg.de/classner/gp/  
@@ -24,7 +33,8 @@
 [Clothing Co-Parsing]: https://github.com/bearpaw/clothing-co-parsing  
 [BackgroundMattingV2:VideoMatte240K]: https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets  
 [BackgroundMattingV2:PhotoMatte85]: https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets  
-[YouTubeVOS-2019]: https://pan.baidu.com/s/1x4bQ0AuyshS7-ZmE9I0FnQ
+[YouTubeVOS-2019]: https://youtube-vos.org/dataset/vos/
+[YouTubeVIS-2021]: https://youtube-vos.org/dataset/vis/
 
 ## Links
 [CV Datasets on the web](http://www.cvpapers.com/datasets.html)  
