@@ -27,3 +27,4 @@
 ## Links
 [CV Datasets on the web](http://www.cvpapers.com/datasets.html)  
 [awesome-segmentation-saliency-dataset](https://github.com/lartpang/awesome-segmentation-saliency-dataset)  
+[pixabay.com - search transparent images](https://pixabay.com/fr/photos/search/human/?colors=transparent)
